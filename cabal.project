@@ -1,0 +1,5 @@
+packages:
+  ./inline-python
+  ./inline-python-tests
+
+tests: True
